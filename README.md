@@ -1,6 +1,6 @@
-# Abstract Test Suite: Data Specification on Administrative Units (DRAFT)
+# Abstract Test Suite: Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units
                        
-The Data Specification on Administrative Units – Technical Guidelines (version 3.1) and the associated GML application schemas (versions 3.0 and 4.0) specifying requirements for the interoperability of spatial data sets of the data theme Administrative Units.
+The Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units – Technical Guidelines (version 3.1) and the associated GML application schemas (versions 3.0 and 4.0) specifying requirements for the interoperability of spatial data sets of the data theme Administrative Units.
 
 The specification specifies the following conformance classes:
 
