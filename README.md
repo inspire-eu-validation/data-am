@@ -1,12 +1,12 @@
 # Abstract Test Suite: Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units
                        
-The Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units – Technical Guidelines (version 3.1) and the associated GML application schemas (versions 3.0 and 4.0) specifying requirements for the interoperability of spatial data sets of the data theme Administrative Units.
+The Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units – Technical Guidelines (version 3.0) and the associated GML application schema specifying requirements for the interoperability of spatial data sets of the data theme Area Management, Restriction/Regulation Zones and Reporting Units.
 
 The specification specifies the following conformance classes:
 
 | Conformance class | Standardization target |
 | ----------------- | ---------------------- |
-| [GML application schemas, Administrative Units](http://inspire.ec.europa.eu/id/ats/data-au/3.1/au-gml) | INSPIRE spatial data set encoded in GML, Administrative Units features |
+| [GML application schemas, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-au/3.1/au-gml) | INSPIRE spatial data set encoded in GML, Administrative Units features |
 | [Data Consistency, Administrative Units](http://inspire.ec.europa.eu/id/ats/data-au/3.1/au-dc) | INSPIRE spatial data set |
 | [Application Schema, Administrative Units](http://inspire.ec.europa.eu/id/ats/data-au/3.1/au-as) | INSPIRE spatial data set |
 | [Application Schema, Maritime Units](http://inspire.ec.europa.eu/id/ats/data-au/3.1/mu-as) | INSPIRE spatial data set |
