@@ -1,4 +1,4 @@
-# Abstract Test Suite: Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units
+# Abstract Test Suite: Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units (DRAFT)
                        
 The Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units – Technical Guidelines (version 3.0) and the associated GML application schema specifying requirements for the interoperability of spatial data sets of the data theme Area Management, Restriction/Regulation Zones and Reporting Units.
 
@@ -6,13 +6,13 @@ The specification specifies the following conformance classes:
 
 | Conformance class | Standardization target |
 | ----------------- | ---------------------- |
-| [GML application schemas, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-au/3.1/au-gml) | INSPIRE spatial data set encoded in GML, Administrative Units features |
-| [Data Consistency, Administrative Units](http://inspire.ec.europa.eu/id/ats/data-au/3.1/au-dc) | INSPIRE spatial data set |
-| [Application Schema, Administrative Units](http://inspire.ec.europa.eu/id/ats/data-au/3.1/au-as) | INSPIRE spatial data set |
-| [Application Schema, Maritime Units](http://inspire.ec.europa.eu/id/ats/data-au/3.1/mu-as) | INSPIRE spatial data set |
-| [Portrayal, Administrative Units](http://inspire.ec.europa.eu/id/ats/data-au/3.1/au-portrayal) | INSPIRE view service |
-| [Reference Systems, Administrative Units](http://inspire.ec.europa.eu/id/ats/data-au/3.1/au-rs) | INSPIRE spatial data set |
-| [Information Accessibility, Administrative Units](http://inspire.ec.europa.eu/id/ats/data-au/3.1/au-ia) | INSPIRE spatial data set |
+| [GML application schemas, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-gml) | INSPIRE spatial data set encoded in GML, Area Management, Restriction/Regulation Zones and Reporting Units features |
+| [Data Consistency, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-dc) | INSPIRE spatial data set |
+| [Application Schema, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-as) | INSPIRE spatial data set |
+| [Application Schema, Maritime Units](http://inspire.ec.europa.eu/id/ats/data-am/3.1/mu-as) | INSPIRE spatial data set |
+| [Portrayal, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-portrayal) | INSPIRE view service |
+| [Reference Systems, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-rs) | INSPIRE spatial data set |
+| [Information Accessibility, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-ia) | INSPIRE spatial data set |
 
 ## Approach
 
@@ -26,11 +26,11 @@ We have used the following approach to represent the Abstract Test Suite based o
 
 4. As a result, there is no need for an encoding-related, data delivery IR conformance class. Instead, the details how to test the conformance for any additional encoding rule would need to be added to the relevant tests and a new conformance class for the validation against the schemas would be added.
 
-5. The IR conformance classes for application schemas without non-abstract feature types, e.g. "Administrative Units - Core", are not needed as no feature instance can be of a type from that application schema.
+5. The IR conformance classes for application schemas without non-abstract feature types, e.g. "Area Management, Restriction/Regulation Zones and Reporting Units - Core", are not needed as no feature instance can be of a type from that application schema.
 
 6. All generic tests related to the GML encoding rule are moved to a new INSPIRE GML conformance class (that should become part of D2.7 in a future revision) and which all other TG conformance classes would normatively reference / depend on.
 
-7. A general conformance class regarding [metadata for interoperability](http://inspire.ec.europa.eu/id/ats/data/3.0rc3/interoperability-metadata) is specified in a separate Abstract Test Suite - for the Data Specification Template. The theme specific conformance class will depend upon the generic one and add additional test cases, if necessary.
+7. A general conformance class regarding [metadata for interoperability](https://github.com/inspire-eu-validation/data/tree/master/interoperability-metadata) is specified in a separate Abstract Test Suite - for the Data Specification Template. The theme specific conformance class will depend upon the generic one and add additional test cases, if necessary.
    
 8. The conformance classes with a different standardization target are not included for now. Only the requirements on a data set resource are included.
 
