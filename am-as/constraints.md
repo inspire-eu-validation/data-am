@@ -14,9 +14,9 @@ For constraints that require retrieving a referenced resource and the resource c
 
 Automated tests:
 
-* Specify at least the most specific legal instrument; "At least the most specific legal instrument that required the establishment of zone shall be provided using the [legalBasis] (#legalBasis) association role.".
+* Specify at least the most specific legal instrument; "At least the most specific legal instrument that required the establishment of zone shall be provided using the [legalBasis](#legalBasis) association role.".
 
-* competentAuthority.role shall be "amthority"; OCL: "inv: competentAuthority.role = RelatedPartyRoleValue::amthority". The role attribute of the [competentAuthority] (#competentAuthority) shall take the value “amthority”
+* competentAuthority.role shall be "amthority"; OCL: "inv: competentAuthority.role = RelatedPartyRoleValue::amthority". The role attribute of the [competentAuthority](#competentAuthority) shall take the value “amthority”
 
 **Reference(s)**: 
 
