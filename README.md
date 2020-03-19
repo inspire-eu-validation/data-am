@@ -9,7 +9,7 @@ The specification specifies the following conformance classes:
 | [GML application schemas, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.0/am-gml) | INSPIRE spatial data set encoded in GML, Area Management, Restriction/Regulation Zones and Reporting Units features |
 | [Data Consistency, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.0/am-dc) | INSPIRE spatial data set |
 | [Application Schema, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.0/am-as) | INSPIRE spatial data set |
-| [Application Schema, Maritime Units](http://inspire.ec.europa.eu/id/ats/data-am/3.1/mu-as) | INSPIRE spatial data set |
+| [Application Schema, Maritime Units](http://inspire.ec.europa.eu/id/ats/data-am/3.0/am-as) | INSPIRE spatial data set |
 | [Portrayal, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.0/am-portrayal) | INSPIRE view service |
 | [Reference Systems, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.0/am-rs) | INSPIRE spatial data set |
 | [Information Accessibility, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.0/am-ia) | INSPIRE spatial data set |
