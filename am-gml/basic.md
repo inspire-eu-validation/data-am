@@ -12,7 +12,7 @@
 
 **Reference(s)**: 
 
-* [TG DS-AM](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-gml/README#ref_TG_DS_AM) 5.4, 5.5
+* [TG DS-AM](./README.md#ref_TG_DS_AM) 5.4, 5.5
 
 **Test type**: Automated
 
