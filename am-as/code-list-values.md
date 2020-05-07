@@ -6,10 +6,10 @@
 
 **Test method**
 
-* Check that all the [EnvironmentalDomain](#EnvironmentalDomain) elements has a xlink:href attribute pointing to a valid value. If the check fails report [disallowedCodeListValue](#disallowedCodeListValue).
+* Check that all the [EnvironmentalDomain](#EnvironmentalDomain) elements has a xlink:href attribute pointing to a [valid value](#validValue). If the check fails report [disallowedCodeListValue](#disallowedCodeListValue).
 
 
-| Valid values for xlink:href attribute of [EnvironmentalDomain](#EnvironmentalDomain) element | 
+| <a name="validValue"></a> Valid values for xlink:href attribute of [EnvironmentalDomain](#EnvironmentalDomain) element | 
 | ---- | 
 | http://inspire.ec.europa.eu/codelist/EnvironmentalDomain/air | 
 | http://inspire.ec.europa.eu/codelist/EnvironmentalDomain/climateAndClimateChange | 
