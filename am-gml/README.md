@@ -2,7 +2,7 @@
 
 Conformance class for the GML encoding of spatial objects specified in the INSPIRE GML application schema 'Area Management, Restriction/Regulation Zones and Reporting Units'. This conformance class examines the data set against requirements associated with the GML application schema.
 
-This conformance class is part of the [Abstract Test Suite for the INSPIRE Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.1).
+This conformance class is part of the [INSPIRE Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.1).
 
 ## Standardization target type
 
