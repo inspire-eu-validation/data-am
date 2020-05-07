@@ -1,4 +1,4 @@
-# Abstract Test Suite: Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units (DRAFT)
+# Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units (DRAFT)
                        
 The Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units – Technical Guidelines (version 3.0) and the associated GML application schema specifying requirements for the interoperability of spatial data sets of the data theme Area Management, Restriction/Regulation Zones and Reporting Units.
 
