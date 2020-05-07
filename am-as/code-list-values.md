@@ -8,6 +8,7 @@
 
 * Check that all the [EnvironmentalDomain](#EnvironmentalDomain) elements has a xlink:href attribute pointing to a valid value. If the check fails report [disallowedCodeListValue](#disallowedCodeListValue).
 
+
 | Valid values for xlink:href attribute of [EnvironmentalDomain](#EnvironmentalDomain) element | 
 | ---- | 
 | http://inspire.ec.europa.eu/codelist/EnvironmentalDomain/air | 
@@ -34,6 +35,8 @@
 **Test type**: Automated
 
 **Notes**
+
+The multiplicity of [EnvironmentalDomain](#EnvironmentalDomain) is 1 or more.
 
 The following is not applicable for this application schema as no extensions are allowed. It is still included here as a reminder in case extensions will be allowed in the future:
 
