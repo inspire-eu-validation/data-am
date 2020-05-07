@@ -28,7 +28,7 @@ noFeature <a nAMe="noFeature"/>  |  	The XML documents representing the spatial 
 
 ## Contextual XPath references
 
-The nAMespace prefixes used as described in [README.md](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-gml/README#nAMespaces).
+The namespace prefixes used as described in [README.md](./README.md#nAMespaces).
 
 Abbreviation                                          |  XPath expression
 ----------------------------------------------------- | ------------------------------------------------------------------
