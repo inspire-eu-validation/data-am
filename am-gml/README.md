@@ -28,7 +28,7 @@ The following abbreviations are used in the test text for referring to external 
 
 Abbreviation                     | Document name
 -------------------------------- | --------------------------------------------------
-TG DS-AM <a name="ref_TG_DS_am"></a>   | [INSPIRE Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units – Technical Guidelines version 3.1](https://inspire.ec.europa.eu/file/1520/download?token=1crfTAsI)
+TG DS-AM <a name="ref_TG_DS_am"></a>   | [INSPIRE Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units – Technical Guidelines version 3.1](https://inspire.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_AM_v3.0.pdf)
 TG DS Template <a name="ref_TG_DS_tmpl"></a>   | [INSPIRE Data Specification Template version 3.0rc3](http://inspire.jrc.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_Template_v3.0rc3.pdf)
 
 ## Test Cases
