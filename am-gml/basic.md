@@ -1,7 +1,5 @@
 # Basic test
 
-**Version**: 1
-
 **Purpose**: Verify that the spatial data set contains at least one Area Management, Restriction/Regulation Zones and Reporting Units feature.
 
 **Prerequisites**
