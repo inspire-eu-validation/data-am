@@ -22,7 +22,7 @@ An indirect dependency is another conformance class whose requirements must be m
 
 | Specification | Conformance class | Related resource | Parameters |
 | ------------- | ----------------- | ---------------- | ---------- |
-| [TG DS-AM](http://inspire.ec.europa.eu/id/ats/data-am/3.0/am-as/README#ref_TG_DS_AM) | [GML application schemas, Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.0/am-gml) | INSPIRE spatial data set encoded in GML, Area Management, Restriction/Regulation Zones and Reporting Units features | n/a |
+| [TG DS-AM](./README.md#ref_TG_DS_AM) | [GML application schemas, Area Management, Restriction/Regulation Zones and Reporting Units](../am-gml/README.md) | INSPIRE spatial data set encoded in GML, Area Management, Restriction/Regulation Zones and Reporting Units features | n/a |
  
 ## Feature types <a name="feature-types"></a>
 
@@ -46,8 +46,8 @@ TG DS Template <a name="ref_TG_DS_tmpl"></a>   | [INSPIRE Data Specification Tem
 
 | Identifier                                                        | Status   | Test case in [TG DS-AM](#ref_TG_DS_AM)  |
 | ----------------------------------------------------------------- | -------- | ------------ |
-| [Code list values](http://inspire.ec.europa.eu/id/ats/data-am/3.0/am-as/code-list-values)  | Draft  | A.1.3  |
-| [Constraints](http://inspire.ec.europa.eu/id/ats/data-am/3.0/am-as/constraints)  | Draft  | A.1.6  |
+| [Code list values](./code-list-values.md)  | Draft  | A.1.3  |
+| [Constraints](./constraints.md)  | Draft  | A.1.6  |
 
 ## XML namespace prefixes <a name="namespaces"></a>
 
@@ -64,4 +64,3 @@ wfs            | http://www.opengis.net/wfs/2.0
 xsi            | http://www.w3.org/2001/XMLSchema-instance
 xlink          | http://www.w3.org/1999/xlink
 xml            | http://www.w3.org/XML/1998/namespace
-
