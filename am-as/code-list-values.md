@@ -6,6 +6,8 @@
 
 **Test method**
 
+* Check that at least one [EnvironmentalDomain](#EnvironmentalDomain) element is provided.
+
 * Check that all the [EnvironmentalDomain](#EnvironmentalDomain) elements has a xlink:href attribute pointing to a [valid value](#validValue). If the check fails report [disallowedCodeListValue](#disallowedCodeListValue).
 
 
