@@ -4,7 +4,7 @@ Conformance class for the requirements associated with reference systems (spatia
 
 To be able to test this conformance class, the encoding of the data set must be known, i.e. this is a parameterized conformance class. The XPath expressions used in this test suite assume that the GML encoding is used. If used with the GML encoding this conformance class has an indirect dependency to the conformance class "GML application schema for Area Management, Restriction/Regulation Zones and Reporting Units".
 
-This conformance class is part of the [INSPIRE Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.2).
+This conformance class is part of the [INSPIRE Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units](../README.md).
 
 ## Standardization target type
 
@@ -18,7 +18,7 @@ A direct dependency is another conformance class whose requirements must be met 
 
 | Specification | Conformance class | Parameters | 
 | ------------- | ----------------- | ---------- |
-| [TG DS Template](http://inspire.ec.europa.eu/id/ats/data-am/3.2/am-rs/README#ref_TG_DS_tmpl) | [Reference systems](http://inspire.ec.europa.eu/id/ats/data/3.0rc3/reference-systems) | n/a |
+| [TG DS Template](#ref_TG_DS_tmpl) | [Reference systems](http://inspire.ec.europa.eu/id/ats/data/3.0rc3/reference-systems) | n/a |
 
 ### Indirect dependencies
 
@@ -26,13 +26,13 @@ An indirect dependency is another conformance class whose requirements must be m
 
 | Specification | Conformance class | Related resource | Parameters |
 | ------------- | ----------------- | ---------------- | ---------- |
-| [TG DS-AM](http://inspire.ec.europa.eu/id/ats/data-am/3.2/am-rs/README#ref_TG_DS_AM) | [GML application schema, Area Management, Restriction/Regulation Zones and Reporting Units Simple](http://inspire.ec.europa.eu/id/ats/data-am/3.2/am-gml) | INSPIRE spatial data set encoded in GML, Area Management, Restriction/Regulation Zones and Reporting Units features | n/a |
+| [TG DS-AM](#ref_TG_DS_AM) | [GML application schema, Area Management, Restriction/Regulation Zones and Reporting Units Simple](../am-gml/README.md) | INSPIRE spatial data set encoded in GML, Area Management, Restriction/Regulation Zones and Reporting Units features | n/a |
  
 ## Feature types <a name="feature-types"></a>
 
 The instantiable feature types are:
  
-* ProtectedSite
+* ManagementRestrictionOrRegulationZone
  
 *Note*: When "features" or "spatial objects" are mentioned in the test cases, this refers only to instances of feature types of this application schema, not to any types specified in any other application schema.
 
