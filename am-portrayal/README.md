@@ -44,9 +44,8 @@ This Conformance Class contains the following tests.
 
 | Identifier                                                                          | Status   |
 | ----------------------------------------------------------------------------------- | -------- |
-| [Layers](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-portrayal/layers) | Ready for review |
-| [Layer name](http://inspire.ec.europa.eu/id/ats/data-hy/3.1/hy-portrayal/layer-name) | Ready for review |
-| [Layer for Maritime Unit] (http://inspire.ec.europa.eu/id/ats/data-hy/3.1/hy-portrayal/layerforMaritimeUnit) | Ready for review |
+| [Layers](./layers.md) | Ready for review |
+| [Layer name](./layer-name.md) | Ready for review |
 
 ## Open issues
 
