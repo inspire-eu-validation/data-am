@@ -47,7 +47,7 @@ TG DS Template <a name="ref_TG_DS_tmpl"></a>   | [INSPIRE Data Specification Tem
 
 | Identifier                                                        | Status   | Test case in [TG DS-AM](#ref_TG_DS_AM)  |
 | ----------------------------------------------------------------- | -------- | ------------ |
-| [Geometry consistency](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-dc/geometry)  | ready for review  | A.3.6  |
+| [Geometry consistency](./geometry.md)  | ready for review  | A.3.6  |
 
 ## XML namespace prefixes <a name="namespaces"></a>
 
