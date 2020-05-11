@@ -4,7 +4,7 @@ Conformance class for the requirements related to the consistency of the data.
 
 To be able to test this conformance class, the encoding of the data set must be known, i.e. this is a parameterized conformance class. The XPath expressions used in this test suite assume that the GML encoding is used. If used with the GML encoding this conformance class has a direct dependency to the conformance class "INSPIRE GML application schemas".
 
-This conformance class is part of the [INSPIRE Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units](http://inspire.ec.europa.eu/id/ats/data-am/3.1).
+This conformance class is part of the [INSPIRE Data Specification on Area Management, Restriction/Regulation Zones and Reporting Units](../README.md).
 
 ## Standardization target type
 
