@@ -6,11 +6,11 @@
 
 **Test method**
 
-* Check that at least one [layer name](#name) is one of the [harmonized names](#names) for the data theme.
+* Check that at least one [layer name](#name) is one of the harmonized names for the data theme.
 
 **Reference(s)**:
 
-* [TG DS-AM](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-portrayal/README#ref_TG_DS_AM), IR Requirement, Article 14(1)(a)
+* [TG DS-AM](./README.md#ref_TG_DS_AM), IR Requirement, Article 14(1)(a)
 
 **Test type**: Automated
 
@@ -18,10 +18,8 @@
 
 ## Contextual XPath references
 
-The namespace prefixes used as described in [README.md](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-portrayal/README#namespaces).
+The namespace prefixes used as described in [README.md](./README.md#namespaces).
 
 Abbreviation                                     |  XPath expression												|  Parameter  value
 ------------------------------------------------ | ---------------------------------------------------------------	| ---------------------------------------------------------------
 layer name <a name="name"></a> | /wms:WMS_Capabilities/wms:Capability/wms:Layer/wms:Name | ISO 19128
-                                 | /wmts:Capabilities/wmts:Contents/wmts:Layer/ows:Identifier | WMTS 1.0.0
-harmonized names <a name="names"></a> | ('AM.AirQualityManagementZone', 'AM.AnimalHealthRestrictionZone', To be continued)
