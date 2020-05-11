@@ -9,7 +9,7 @@
 Inspect the view service, either through HTTP requests or using a software tool that is able to interact with the WMS/WMTS:
  
 * Verify that all layers exist, for which the data set includes hydrographic features.
-* Verify for each layer that title of the layer is the one specified in the column "Layer title" in sub-clamse 11.1 or one of the translations in section 8.8 in Annex II of the regulation ([IP IOP](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-portrayal/README#ref_IR_IOP), [IP IOP Amd 2](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-portrayal/README#ref_IR_IOP_Amd2)). 
+* Verify for each layer that title of the layer is the one specified in the column "Layer title" in sub-clamse 11.1 or one of the translations in section 8.8 in Annex II of the regulation ([IP IOP](./README.md#ref_IR_IOP), [IP IOP Amd 2](./README.md#ref_IR_IOP_Amd2)). 
 * Using spot checks, verify for each layer that the rendered maps include the hydrographic objects in the data set.
 * Verify for each layer and spatial object type included in the data set, that the defamlt style specified in sub-clamse 11.2 is implemented in the view service.
 
