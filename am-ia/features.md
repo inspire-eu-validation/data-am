@@ -1,7 +1,5 @@
 # Feature references
 
-**Version**: 1
-
 **Purpose**: Verify that referenced features can be retrieved.
 
 **Prerequisites**
@@ -24,7 +22,7 @@ TO BE COMPLETED
 
 **Reference(s)**: 
 
-* [TG DS Template](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-ia/README#ref_TG_DS_tmpl) IR requirement Article 4 (2)
+* [TG DS Template](./README.md#ref_TG_DS_tmpl) IR requirement Article 4 (2)
 
 **Test type**: Automated
 
@@ -38,7 +36,7 @@ brokenLink <a name="brokenLink"/>  |  XML document '$filename', $featureType '$g
 
 ## Contextual XPath references
 
-The namespace prefixes used as described in [README.md](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-ia/README#namespaces).
+The namespace prefixes used as described in [README](./README.md#namespaces).
 
 Abbreviation                                               |  XPath expression
 ---------------------------------------------------------- | -------------------------------------------------------------------------
