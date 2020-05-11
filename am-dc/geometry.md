@@ -8,7 +8,7 @@
 
 For all objects in an AM data set, whose [geometry](#geometry) has been derived from another spatial object, compare the geometries of the two objects. The test is passed when the geometries are consistent.
 
-Inspect that the [geometry](#geometry) of each instance [administrative boundary](#AdministrativeBoundary) correspond to an edge in the topological structure formed by the complete boundary graph, including the boundaries of all levels.
+Inspect that the [geometry](#geometry) of each instance [ManagementRestrictionOrRegulationZone](#ManagementRestrictionOrRegulationZone) correspond to an edge in the topological structure formed by the complete boundary graph, including the boundaries of all levels.
 
 **Reference(s)**: 
 
