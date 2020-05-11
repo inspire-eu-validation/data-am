@@ -12,7 +12,7 @@ Inspect that the [geometry](#geometry) of each instance [administrative boundary
 
 **Reference(s)**: 
 
-* [TG DS-AM](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-dc/README#ref_TG_DS_am) IR requirement Section 4.4 (5)
+* [TG DS-AM](./README.md#ref_TG_DS_am) IR requirement Section 4.4 (5)
 
 **Test type**: manual
 
