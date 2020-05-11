@@ -18,7 +18,7 @@ A direct dependency is another conformance class whose requirements must be met 
 
 | Specification | Conformance class | Parameters | 
 | ------------- | ----------------- | ---------- |
-| [TG DS Template](http://inspire.ec.europa.eu/id/ats/data-am/3.1/am-dc/README#ref_TG_DS_tmpl) | [Data consistency](http://inspire.ec.europa.eu/id/ats/data/3.0rc3/data-consistency) | n/a |
+| [TG DS Template](#ref_TG_DS_tmpl) | [Data consistency](http://inspire.ec.europa.eu/id/ats/data/3.0rc3/data-consistency) | n/a |
 
 ### Indirect dependencies
 
