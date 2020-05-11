@@ -1,7 +1,5 @@
 # Code lists
 
-**Version**: 1
-
 **Purpose**: Verify that code lists extensions can be accessed.
 
 **Prerequisites**
