@@ -31,7 +31,7 @@ The following checks are performed for every feature in the dataset.
 
 * [TG DS Template](./README.md#ref_TG_DS_tmpl) IR requirement Article 4 (1)
 * [TG DS Template](./README.md#ref_TG_DS_tmpl) IR requirement Article 4 (3)
-* [TG DS Template](./README.md#ref_TG_DS_tmpl) IR requirement Article 6 (1)l
+* [TG DS Template](./README.md#ref_TG_DS_tmpl) IR requirement Article 6 (1)
 * [TG DS Template](./README.md#ref_TG_DS_tmpl) IR requirement Article 6 (2)
 * [TG DS Template](./README.md#ref_TG_DS_tmpl) IR requirement Article 6 (3)
 * [TG DS Template](./README.md#ref_TG_DS_tmpl) IR requirement Article 6 (4)
