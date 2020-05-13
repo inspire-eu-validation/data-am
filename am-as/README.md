@@ -55,7 +55,7 @@ The following prefixes are used to refer to the corresponding XML namespaces in 
 
 Prefix         | Namespace
 -------------- | -------------------------------------------------
-am             | http://inspire.ec.europa.eu/schemas/am/4.02
+am             | http://inspire.ec.europa.eu/schemas/am/4.0
 au             | http://inspire.ec.europa.eu/schemas/au/4.0
 net            | http://inspire.ec.europa.eu/schemas/net/4.0
 base           | http://inspire.ec.europa.eu/schemas/base/3.3
