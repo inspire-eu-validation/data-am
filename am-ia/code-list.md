@@ -8,9 +8,10 @@
 
 * Verify that any code list extensions are publicly accessible via HTTP, i.e. inspect extensible code list valued property elements. If a reference (@xlink:href) has a value that does not start with http://inspire.ec.europa.eu/codelist/, verify that a HTTP GET request to the URI retrieves a document. Otherwise report [brokenLink](#brokenLink).
 
-This assertion could currently be removed as the application schema does not specify any extensible code lists.
+This data theme currently has the following extensible code lists:
 
-The test always passes.
+* [ZoneTypeCode](#ZoneTypeCode) : https://inspire.ec.europa.eu/codelist/ZoneTypeCode
+* [SpecialisedZoneTypeCode](#SpecialisedZoneTypeCode) : https://inspire.ec.europa.eu/codelist/SpecialisedZoneTypeCode
 
 **Reference(s)**: 
 
@@ -28,4 +29,9 @@ brokenLink <a name="brokenLink"/>  |  XML document '$filename', $featureType '$g
 
 ## Contextual XPath references
 
-n/a
+The namespace prefixes used as described in [README](./README.md#namespaces).
+
+Abbreviation                                               |  XPath expression
+---------------------------------------------------------- | -------------------------------------------------------------------------
+ZoneTypeCode <a name ="ZoneTypeCode"></a>	| //schema-element(am:ManagementRestrictionOrRegulationZone)/am:zoneType/@xlink:href
+SpecialisedZoneTypeCode <a name ="SpecialisedZoneTypeCode"></a>	| //schema-element(am:ManagementRestrictionOrRegulationZone)/am:specialisedZoneType/@xlink:href
