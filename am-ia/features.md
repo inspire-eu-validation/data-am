@@ -11,14 +11,8 @@
 This data theme currently has the following association roles:
 
 * ManagementRestrictionOrRegulationZone.[relatedZone](#relatedZone) : ManagementRestrictionOrRegulationZone
-* ManagementRestrictionOrRegulationZone.
-* ManagementRestrictionOrRegulationZone.
-* ManagementRestrictionOrRegulationZone.
-* ManagementRestrictionOrRegulationZone.
-* ManagementRestrictionOrRegulationZone.
-* ManagementRestrictionOrRegulationZone.
-
-TO BE COMPLETED
+* ManagementRestrictionOrRegulationZone.[plan](#plan) : base2:DocumentCitation
+* ManagementRestrictionOrRegulationZone.[legalBasis](#legalBasis) : base2:LegislationCitation
 
 **Reference(s)**: 
 
@@ -41,5 +35,5 @@ The namespace prefixes used as described in [README](./README.md#namespaces).
 Abbreviation                                               |  XPath expression
 ---------------------------------------------------------- | -------------------------------------------------------------------------
 relatedZone <a name ="relatedZone"></a>	| //schema-element(am:ManagementRestrictionOrRegulationZone)/am:relatedZone/@xlink:href
-
-TO BE COMPLETED
+plan <a name ="plan"></a>	| //schema-element(am:ManagementRestrictionOrRegulationZone)/am:plan/@xlink:href
+legalBasis <a name ="legalBasis"></a>	| //schema-element(am:ManagementRestrictionOrRegulationZone)/am:legalBasis/@xlink:href
