@@ -1,4 +1,4 @@
-# Boundary
+# Geometry Consistency
 
 **Purpose**: Verify whether in all cases, where the geometry of a spatial object is derived from another spatial object, the geometries of the two objects are consistent.
 
