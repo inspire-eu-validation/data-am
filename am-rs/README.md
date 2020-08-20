@@ -26,7 +26,7 @@ An indirect dependency is another conformance class whose requirements must be m
 
 | Specification | Conformance class | Related resource | Parameters |
 | ------------- | ----------------- | ---------------- | ---------- |
-| [TG DS-AM](#ref_TG_DS_AM) | [GML application schema, Area Management, Restriction/Regulation Zones and Reporting Units Simple](../am-gml/README.md) | INSPIRE spatial data set encoded in GML, Area Management, Restriction/Regulation Zones and Reporting Units features | n/a |
+| [TG DS-AM](#ref_TG_DS_AM) | [GML application schema, Area Management, Restriction/Regulation Zones and Reporting Units](../am-gml/README.md) | INSPIRE spatial data set encoded in GML, Area Management, Restriction/Regulation Zones and Reporting Units features | n/a |
  
 ## Feature types <a name="feature-types"></a>
 
