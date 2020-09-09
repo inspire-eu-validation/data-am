@@ -8,9 +8,12 @@
 
 * Verify that any code list extensions are publicly accessible via HTTP, i.e. inspect extensible code list valued property elements. If a reference (@xlink:href) has a value that does not start with http://inspire.ec.europa.eu/codelist/, verify that a HTTP GET request to the URI retrieves a document. Otherwise report [brokenLink](#brokenLink).
 
-This data theme currently has the following extensible code lists:
+This data theme currently has the following extensible code list:
 
 * [ZoneTypeCode](#ZoneTypeCode) : https://inspire.ec.europa.eu/codelist/ZoneTypeCode
+
+This data theme currently has the following empty code list:
+
 * [SpecialisedZoneTypeCode](#SpecialisedZoneTypeCode) : https://inspire.ec.europa.eu/codelist/SpecialisedZoneTypeCode
 
 **Reference(s)**: 
