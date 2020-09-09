@@ -26,7 +26,7 @@ The following check is performed for every feature in the dataset, for the open 
 
 | <a name="preDefinedValue"></a> Pre-defined values for xlink:href attribute of [zoneType](#zoneType) element are available in the INSPIRE Registry| 
 | ---- | 
-| https://inspire.ec.europa.eu/codelist/ZoneTypeCode | 
+| http://inspire.ec.europa.eu/codelist/ZoneTypeCode | 
 
 
 **Reference(s)**: 
