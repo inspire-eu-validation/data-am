@@ -1,15 +1,14 @@
-# Validatio against INSPIRE official schema Schema validation
+# Validation against INSPIRE official schema
 
 **Version**: 1
 
-**Purpose**: Verify that all XML documents validate against their XML schema(s).
+**Purpose**: Verify that all XML documents validate against the INSPIRE Official schema.
 
 **Prerequisites**
 
 **Test method**
 
-* Verify for each XML document that the root element that a [schemaLocation](#) attribute is provided. Otherwise report [noSchemaLocation](#noSchemaLocation)
-* Validate each document against the schema(s) specified in the xsi:schemaLocation attribute using strict XML schema validation. Otherwise report [invalidSchema](#invalidSchema).
+* Validate each document against the INSPIRE Official schema: https://inspire.ec.europa.eu/schemas/am/4.0/AreaManagementRestrictionRegulationZone.xsd.
 
 **Reference(s)**: 
 
@@ -29,8 +28,7 @@
 
 Identifier  |  Message text (parameters start with '$')
 ---------------------------------------------------------- | -------------------------------------------------------------------------
-noSchemaLocation <a name="noSchemaLocation"/>  |  XML document '$filename':  The root element does not have an xsi:schemaLocation attribute. The document cannot be validated.
-invalidSchema <a name="invalidSchema"/>  |  XML document '$filename':  The document is not valid. The XML parser has identified the following issues: $issues
+
 
 ## Contextual XPath references
 
@@ -38,4 +36,3 @@ The namespace prefixes used as described in [README.md](http://inspire.ec.europa
 
 Abbreviation                                               |  XPath expression
 ---------------------------------------------------------- | -------------------------------------------------------------------------
-schemaLocation <a name="schemaLocation"></a>   | /*[@xsi:schemaLocation]
