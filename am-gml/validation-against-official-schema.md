@@ -8,7 +8,7 @@
 
 **Test method**
 
-* Validate each document against the INSPIRE Official schema: https://inspire.ec.europa.eu/schemas/am/4.0/AreaManagementRestrictionRegulationZone.xsd.
+* Validate each document against the INSPIRE Official schema: https://inspire.ec.europa.eu/schemas/am/4.0/AreaManagementRestrictionRegulationZone.xsd, using strict XML schema validation.
 
 **Reference(s)**: 
 
