@@ -1,4 +1,4 @@
-# Conformance class: GML application schemas, Area Management, Restriction/Regulation Zones and Reporting Units (DRAFT)
+# Conformance class: GML application schemas, Area Management, Restriction/Regulation Zones and Reporting Units
 
 Conformance class for the GML encoding of spatial objects specified in the INSPIRE GML application schema 'Area Management, Restriction/Regulation Zones and Reporting Units'. This conformance class examines the data set against requirements associated with the GML application schema.
 
