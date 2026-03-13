@@ -37,4 +37,4 @@ The namespace prefixes used as described in [README](./README.md#namespaces).
 Abbreviation                                               |  XPath expression				|Multiplicity       |Voidable
 ---------------------------------------------------------- | -------------------------------|-------------------|---------
 ZoneTypeCode <a name ="ZoneTypeCode"></a>	| //schema-element(am:ManagementRestrictionOrRegulationZone)/am:zoneType/@xlink:href | 1..\* | No
-SpecialisedZoneTypeCode <a name ="SpecialisedZoneTypeCode"></a>	| //schema-element(am:ManagementRestrictionOrRegulationZone)/am:specialisedZoneType/@xlink:href | 0..1 | Yes
+SpecialisedZoneTypeCode <a name ="SpecialisedZoneTypeCode"></a>	| //schema-element(am:ManagementRestrictionOrRegulationZone)/am:specialisedZoneType/@xlink:href | 0..\* | Yes
